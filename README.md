@@ -38,6 +38,8 @@ Leaked system prompts, captured verbatim — the hidden instructions and rules t
 
 ## Anthropic — Claude system prompts
 
+### Claude.ai system prompts (web, desktop & mobile)
+
 | Model | Prompt |
 |-------|--------|
 | **Claude Fable 5** | [**Claude Fable 5 system prompt**](Anthropic/claude-fable-5.md) |
@@ -47,7 +49,7 @@ Leaked system prompts, captured verbatim — the hidden instructions and rules t
 | Claude Opus 4.7 | [Claude Opus 4.7 system prompt](Anthropic/claude-opus-4.7.md) |
 | Claude Opus 4.6 | [Claude Opus 4.6 system prompt](Anthropic/claude-opus-4.6.md) · [No tools](Anthropic/claude-opus-4.6-no-tools.md) |
 | Claude Sonnet 4.6 | [Claude Sonnet 4.6 system prompt](Anthropic/claude-sonnet-4.6.md) · [No tools](Anthropic/claude-sonnet-4.6-no-tools.md) |
-| Claude.ai | [Claude.ai injected reminders](Anthropic/anthropic_reminders.md) |
+| Injected reminders | [Claude.ai injected reminders](Anthropic/anthropic_reminders.md) |
 
 ### Claude Code system prompts
 
